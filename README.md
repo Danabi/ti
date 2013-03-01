@@ -1,4 +1,8 @@
-ti
-==
+# notatki do technologii internetowych
 
-technologie internetowe notatki
+Znaczniki:
+* p
+* ul ol
+  * li
+* img
+* h

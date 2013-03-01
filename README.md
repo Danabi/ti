@@ -1,5 +1,8 @@
 # notatki do technologii internetowych
 
+>Dzień bez kodowania to dzień stracony
+
+
 Znaczniki:
 * p
 * ul ol

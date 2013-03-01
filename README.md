@@ -1,6 +1,6 @@
 # notatki do technologii internetowych
 
->Dzień bez kodowania to dzień stracony
+>Dzień bez kodowania jest dniem straconym
 
 
 Znaczniki:
@@ -24,3 +24,5 @@ Szablon pliku HTML5:
 </body>
 </html>
 ```html
+
+Myślałem, że ktoś sobie robi jaja - powiedział. - Zadzwoniła pani sekretarka i mówi "Łączę z prezydentem". <br> A ja się pytam "z kim? Jaja sobie pani robi, kim pani w ogóle jest?" <br> Dopiero gdy usłyszałem głos pana prezydenta to mnie postawiło do pionu. Rozmowa nie była długa, ale te gratulacje były bardzo miłe. Jestem patriotą. Dla mnie oznacza to godne reprezentowanie kraju nie tylko na skoczni, ale również poza zawodami - podkreślił Stoch.

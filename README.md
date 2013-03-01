@@ -25,4 +25,26 @@ Szablon pliku HTML5:
 </html>
 ```html
 
-Myślałem, że ktoś sobie robi jaja - powiedział. - Zadzwoniła pani sekretarka i mówi "Łączę z prezydentem". <br> A ja się pytam "z kim? Jaja sobie pani robi, kim pani w ogóle jest?" <br> Dopiero gdy usłyszałem głos pana prezydenta to mnie postawiło do pionu. Rozmowa nie była długa, ale te gratulacje były bardzo miłe. Jestem patriotą. Dla mnie oznacza to godne reprezentowanie kraju nie tylko na skoczni, ale również poza zawodami - podkreślił Stoch.
+Myślałem, że ktoś sobie robi jaja - powiedział. 
+- Zadzwoniła  pani sekretarka i mówi "Łączę z prezydentem". <br> A ja się pytam "z kim? <br> 
+Jaja sobie pani robi, kim pani w ogóle jest?"<br> 
+Dopiero gdy usłyszałem głos pana prezydenta to mnie postawiło do pionu. <br>
+Rozmowa nie była długa, ale te gratulacje były bardzo miłe. Jestem patriotą. <br>  
+Dla mnie oznacza to godne reprezentowanie kraju nie tylko na skoczni, ale również poza zawodami<br>
+- podkreślił Stoch.
+
+***ala*** ma kota,
+
+[Elementarz  Falskiego](http://www.empik.com/elementarz-falski-marian,58100,ksiazka-p)
+
+
+_ola_ ma *psa*
+
+![okładka falskiego](http://ecsmedia.pl/c/elementarz-p-iext3832894.jpg)
+
+
+
+
+
+
+

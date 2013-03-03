@@ -2,7 +2,7 @@
 
 >Dzień bez kodowania jest dniem straconym
 
-SPIS TREŚCI:
+##SPIS TREŚCI:
 
 1. ZAJĘCIA 1   
     01.03.2013r.

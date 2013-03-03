@@ -41,7 +41,10 @@ _ola_ ma *psa*
 
 ![okładka falskiego](http://ecsmedia.pl/c/elementarz-p-iext3832894.jpg)
 
-#Zajęcia nr 2 03.03.2013
+
+
+##Zajęcia nr 2 03.03.2013
+
 Aby dokonać zmian w gicie posługujemy się terminalem (F12). Potrzebny jest klucz, 
 który uzyskujemy w gihubie, posługując się terminalem, wpisujemy w terminal odpowiednie hasła. 
 Następnie w komp. domowy odnależć stronę secure shell, ściągnąć pakiet i  wygenerować klucz. 

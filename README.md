@@ -4,6 +4,7 @@
 
 #Literatura:
 http://wbzyl.inf.ug.edu.pl/hcj/idzie-nowe
+www.edytor sublime text 
 
 ##SPIS TREŚCI:
 

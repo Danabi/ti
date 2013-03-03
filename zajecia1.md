@@ -1,4 +1,7 @@
-# JP
+
+JĘZYKI PROGRAMOWANIA
+
+Pierwsze zjęcia:
 
 ```c
 int main() {

@@ -3,12 +3,6 @@
 >Dzień bez kodowania jest dniem straconym
 
 
-Znaczniki:
-* p
-* ul ol
-  * li
-* img
-* h
 
 Szablon pliku HTML5:
 

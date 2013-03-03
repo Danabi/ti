@@ -71,6 +71,14 @@ następnie wpisujemy hasło - jxvf i rozpakowujemy plik z edytorem.
 
 Obsługa: klawisz tabulacji służy do: wpisujemy początkową literę pliku wciskamy tab i nazwa sama się rowinie.
          ls - l: wyswietla bardziej szczegółowo inf. o elemantach wyświetlanych w terminalu.
+         chmod755 sublime_text - zmieniamy dostępność pliku.
+
+
+Przdatne informacje z wykładópw W. Bzyl: tao.inf.ug.edu.pl
+
+Domeny: az.pl
+
+
          
 
 

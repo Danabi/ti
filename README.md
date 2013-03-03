@@ -14,7 +14,6 @@
 
 
 
-
 ##Zajęcia nr 1 i nr 2
 
 ```html

@@ -43,7 +43,7 @@ _ola_ ma *psa*
 
 
 
-##Zajęcia nr 2 03.03.2013
+###Zajęcia nr 2 03.03.2013
 
 Aby dokonać zmian w gicie posługujemy się terminalem (F12). Potrzebny jest klucz, 
 który uzyskujemy w gihubie, posługując się terminalem, wpisujemy w terminal odpowiednie hasła. 

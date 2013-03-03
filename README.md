@@ -3,7 +3,9 @@
 >Dzień bez kodowania jest dniem straconym
 
 SPIS TREŚCI:
+
 1. ZAJĘCIA 1
+
 2. ZAJĘCIA 2
 
 

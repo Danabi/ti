@@ -1,7 +1,7 @@
+#JĘZYKI PROGRAMOWANIA
 
-JĘZYKI PROGRAMOWANIA
 
-Pierwsze zjęcia:
+##Pierwsze zjęcia:
 
 ```c
 int main() {

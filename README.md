@@ -51,6 +51,23 @@ Oznaczenia w terminalu: id_rsa - prywatny klucz
                         id_rsa.pub - publiczny klucz
 Uzyskanie klucza w terminalu poprzez ~ $ cat ~/.ssh/id_rsa.pub
 
+Usuwani eplików rm - remowe np. wpisujemy komendę git rm jp(plik którego nazwe chcemy zmienić) zajecia1.md(nowa nazwa).
+Powrót do poprzenich operacji (odwołanie) - git chack out jp
+Sprawdzenie czy usunęliśmy bądź odzykaliśmy dok. plik - git status
+
+Po wprowadzeniu zmian na terminalu wrzucamy je do githuba za pomocą komendy-git push
+
+
+LITERATURA: Podstawy GIT znajdują się na stronie internetowej - git-scm.com
+
+Darmowy edytor którego można ściągnąć z netu: EDYTOR SUBLIME TEXT- wybrać odpowiedni system do obsługi programu
+i zainstalować. Jeśli mamy terminal możemy spr czy program (plik) został pobrany wpisujemy: ls cd Pobrane/ /Pobrane$ ls. 
+następnie wpisujemy hasło - jxvf i rozpakowujemy plik z edytorem.
+
+Obsługa: klawisz tabulacji służy do: wpisujemy początkową literę pliku wciskamy tab i nazwa sama się rowinie.
+         ls - l: wyswietla bardziej szczegółowo inf. o elemantach wyświetlanych w terminalu.
+         
+
 
 
 

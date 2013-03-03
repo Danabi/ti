@@ -15,7 +15,7 @@
 
 
 
-
+#Zajęcia nr 1 
 
 ```html
 <!doctype html public "♥♥♥">
@@ -30,13 +30,7 @@
 </html>
 ```html
 
-Myślałem, że ktoś sobie robi jaja - powiedział. 
-- Zadzwoniła  pani sekretarka i mówi "Łączę z prezydentem". <br> A ja się pytam "z kim? <br> 
-Jaja sobie pani robi, kim pani w ogóle jest?"<br> 
-Dopiero gdy usłyszałem głos pana prezydenta to mnie postawiło do pionu. <br>
-Rozmowa nie była długa, ale te gratulacje były bardzo miłe. Jestem patriotą. <br>  
-Dla mnie oznacza to godne reprezentowanie kraju nie tylko na skoczni, ale również poza zawodami<br>
-- podkreślił Stoch.
+
 
 ***ala*** ma kota,
 
@@ -47,7 +41,7 @@ _ola_ ma *psa*
 
 ![okładka falskiego](http://ecsmedia.pl/c/elementarz-p-iext3832894.jpg)
 
-Zajęcia nr 2 03.03.2013
+#Zajęcia nr 2 03.03.2013
 Aby dokonać zmian w gicie posługujemy się terminalem (F12). Potrzebny jest klucz, 
 który uzyskujemy w gihubie, posługując się terminalem, wpisujemy w terminal odpowiednie hasła. 
 Następnie w komp. domowy odnależć stronę secure shell, ściągnąć pakiet i  wygenerować klucz. 

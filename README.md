@@ -1,4 +1,4 @@
-# notatki do technologii internetowych
+# Notatki do technologii internetowych
 
 >Dzień bez kodowania jest dniem straconym
 

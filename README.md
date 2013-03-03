@@ -1,7 +1,9 @@
 # notatki do technologii internetowych
 
 >Dzień bez kodowania jest dniem straconym
-
+SPIS TREŚCI:
+1. ZAJĘCIA 1
+2. ZAJĘCIA 2
 
 
 Szablon pliku HTML5:

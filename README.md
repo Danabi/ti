@@ -9,8 +9,12 @@ SPIS TREŚCI:
 2. ZAJĘCIA 2
 
 
-Szablon pliku HTML5:
 
+
+
+
+
+Pierwsze zajęcia 01.03.2013 
 ```html
 <!doctype html public "♥♥♥">
 <html lang=pl>

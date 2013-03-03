@@ -15,7 +15,7 @@
 
 
 
-##Zajęcia nr 1 
+##Zajęcia nr 1 i nr 2
 
 ```html
 <!doctype html public "♥♥♥">
@@ -42,8 +42,7 @@ _ola_ ma *psa*
 ![okładka falskiego](http://ecsmedia.pl/c/elementarz-p-iext3832894.jpg)
 
 
-
-###Zajęcia nr 2 03.03.2013
+Zajęcia nr 2 03.03.2013
 
 Aby dokonać zmian w gicie posługujemy się terminalem (F12). Potrzebny jest klucz, 
 który uzyskujemy w gihubie, posługując się terminalem, wpisujemy w terminal odpowiednie hasła. 

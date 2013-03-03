@@ -2,6 +2,9 @@
 
 >Dzień bez kodowania jest dniem straconym
 
+#Literatura:
+http://wbzyl.inf.ug.edu.pl/hcj/idzie-nowe
+
 ##SPIS TREŚCI:
 
 1. ZAJĘCIA 1   

@@ -4,17 +4,19 @@
 
 SPIS TREŚCI:
 
-1. ZAJĘCIA 1    01.03.2013r.
+1. ZAJĘCIA 1   
+    01.03.2013r.
 
-2. ZAJĘCIA 2    03.03.2013r.
-
-
-
-
+2. ZAJĘCIA 2    
+    03.03.2013r
 
 
 
-Pierwsze zajęcia 01.03.2013 
+
+
+
+
+
 ```html
 <!doctype html public "♥♥♥">
 <html lang=pl>

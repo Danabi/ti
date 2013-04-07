@@ -56,4 +56,31 @@
 +"Napisz program wypisujący słownie dzień tygodnia, jeżeli numer dnia tygodnia jest znany jako liczba (np. 3).<br> Użyj instrukcji switch-case.
  
  ```c
- #include <stdio.h>
+int x;
+printf("Podaj dzień)";
+scanf("%d,8x);
+x=x%7;
+switch(x)
+{
+case 0;
+printf("poniedzialek")
+breake;
+case 1;
+printf("wtorek")
+break;
+case 2;
+printf("sroda")
+break;
+case 3
+printf ("czwartek")
+berak
+case 4
+printf("piatek")
+berak
+case 5
+break("sosbota")
+case 6
+printf("niedziela")break
+getchar();
+getchar();
+}

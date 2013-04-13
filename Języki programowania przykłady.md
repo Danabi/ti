@@ -1,9 +1,8 @@
 #Ćwiczenia
-```c
+```
 
  
-```
-+
+```c
 +* pętla do-while:
 +
 +```c

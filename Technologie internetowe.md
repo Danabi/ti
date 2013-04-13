@@ -83,8 +83,11 @@ Domeny: az.pl
 #Zajęcia nr 3 13.04.2013
 
 >Notatki do zajęć: Techniki internetowe 2008
+
 ```
+
 Aby dokonać poprawek wyszukujemy ISUSEC, kopiujemy adres danej osoby, wpisujemy komentarz.  
+
 ```c
 body{background: yellow;
   margin: 25px; padding:38px;}

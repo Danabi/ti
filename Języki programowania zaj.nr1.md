@@ -12,7 +12,7 @@ int main() {
 
 int main(){
  double a=3.0,b=7.0;
- printf("Iloczyn %lf x %lf = %.0lf\n",a,b,a*b);
+printf("Iloczyn %lf x %lf = %.0lf\n",a,b,a*b);
  printf("suma %lf + %lf = %.0lf\n",a,b,a+b);
  printf("roznica %lf - %lf = %.0lf\n",a,b,a-b);
  printf("Iloraz %lf / %lf = %lf\n",a,b,a/b);

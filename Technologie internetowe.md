@@ -84,6 +84,25 @@ Domeny: az.pl
 
 ```
 Aby dokonać poprawek wyszukujemy ISUSEC, kopiujemy adres danej osoby, wpisujemy komentarz.  
+```
+body{background: yellow;
+  margin: 25px; padding:38px;}
+  
+html{background: red;}
+
+html {
+background;
+margin; 0;
+padding: 0;
+}
+
+p {
+  backround: blue;
+  padding: 24px;
+  margin: 24px;
+}
+h3 warrning { background: white;}
+  
 
 
          

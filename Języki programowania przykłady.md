@@ -1,5 +1,5 @@
-#Cwiczenia
-```
+#Ćwiczenia
+```c
 
  
 +```
@@ -18,8 +18,9 @@
 +getchar();
 +return 0;
 +}
-+```
-+
+```
+
+```c
 +* połączenie wszystkich pętli w jednym programie - potrójnie wyświetla listę:
 +
 +```c
@@ -52,12 +53,12 @@
 +}
 +```
 +
- ---
+```
  
- ###Treść zadania drugiego:
+Treść zadania drugiego:
  "Wypisz liczby od -3.5 do 7.5 z krokiem co 0.5 za pomocą pętli for i while."
  
-+```c
+```c
 +#include <stdio.h>
 +int main() {
 +double i;
@@ -75,16 +76,13 @@
 +getchar();
 +return 0;
 +}
-+```
-+
- ---
+```
  
  ###Treść zadania trzeciego:
  "Wczytaj n liczb i wyświetl ich sume i średnią arytmetyczną."
- 
-----
--
--###Treść zadania czwartego:
+```c
+
+Treść zadania czwartego:
 +```c
 +# include <stdio.h>
 +int main () {
@@ -108,15 +106,12 @@
 +    getchar();
 +    return 0;
 +}
-+```
+```
  
- ---
- 
--###Treść zadania piątego:
-+###Treść zadania czwartego:
+Treść zadania czwartego:
  "Wypisz kwadraty i sześciany liczb naturalnych od 1 do liczby podanej przez użytkownika za pomocą pętli for, while i do-while."
  
-+```c
+```c
 +#include <stdio.h>
 +int main() {
 +int i, n;
@@ -146,15 +141,13 @@
 +    getchar();
 +    return 0;
 +}
-+```
-+
- ---
+```
  
--###Treść zadania szóstego:
-+###Treść zadania piątego:
+
+Treść zadania piątego:
  "Oblicz za pomocą pętli for i while sumę kwadratów liczb od 3 do 15."
- 
-+```c
+
+```c
 +#include <stdio.h>
 +int main() {
 +int i, suma=0;
@@ -178,14 +171,11 @@
 +}
 +```
 +
- ---
- 
--###Treść zadania siódmego:
-+###Treść zadania szóstego:
+```
+ Treść zadania szóstego:
  "Wypisz sinusy i cosinusy kątów 0…180 stopni z krokiem co 30 stopni za pomocą pętli for."
  
-----
-+```c
+```c
 +#include <stdio.h>
 +#include <math.h>
 +int main() {
@@ -197,14 +187,12 @@
 +    getchar();
 +    return 0;
 +}
-+```
+```
  
-+---
- 
-+###Treść zadania siódmego:
+Treść zadania siódmego:
  "Wypisz znaki do ‘a’ do ‘k’ wraz z ich kodami ASCII (dziesiętnie i szesnastkowo) w kolejności rosnącej i malejącej za pomocą pętli for."
  
-+```c
+```c
 +#include <stdio.h>
 +int main() {
 +char i='a';
@@ -214,13 +202,11 @@
 +    getchar();
 +    return 0;
 +}
-+```
-+
- ---
+```
  
- ###Treść zadania ósmego:
+Treść zadania ósmego:
  "Napisz pętle while wypisującą na ekran znaki podane przez użytkownika, aż do napotkania znaku ‘x’."
- 
+```c
 +* Wersja 1:
 +
 +```c
@@ -250,13 +236,11 @@
 +    getchar();
 +    return 0;
 +}
-+```
-+
- ---
+```
  
- ###Treść zadania dziewiątego:
+Treść zadania dziewiątego:
  "Napisz program wyświetlający tabliczkę mnożenia do 13 (użyj pętli !)."
-+
+```c
 +* Program - pierwsza wersja:
 +
 +```c
@@ -273,8 +257,8 @@
 +getchar();
 +return 0;
 +}
-+```
-+
+
+```
 +* Program - wersja ulepszona:
 +
 +```c

@@ -4,7 +4,7 @@
 Zadanie nr1
 Napisz program liczący pierwiastki trójmianu kwadratowego: a*x^2+b*x+c=0"
 
-
+```c
 
 #include <stdio.h>
 #include <math.h>
@@ -44,7 +44,10 @@ int main() {
                      return 0;
                 }                          
 
+```
 Treść zadania drugiego:
+
+```c
 
 "Znajdź liczby o tej własności, że suma dzielników właściwych liczby jest równa zadanej liczbie, np. 6=1+2+3.
 Są to tak zwane liczby doskonałe."

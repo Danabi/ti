@@ -2,6 +2,7 @@
 
 
 Zadanie nr1
+```
 Napisz program liczący pierwiastki trójmianu kwadratowego: a*x^2+b*x+c=0"
 
 ```c

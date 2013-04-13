@@ -1,37 +1,7 @@
 #Cwiczenia
 ```
 
-
-Treść zadania pierwszego:
- "Wypisz liczby całkowite od 0 do 23 za pomocą pętli for, while i do-while."
  
-+* pętla for:
-+
-+```c
-+#include <stdio.h>
-+int main() {
-+int i;
-+for (i=0; i<=23; i++) {
-+printf("%d,", i);
-+}
-+getchar();
-+return 0;
-+}
-+```
-+
-+* pętla while:
-+
-+```c
-+#include <stdio.h>
-+int main() {
-+int i=0;
-+while (i<=23) {
-+printf("%d,", i);
-+i++;
-+}
-+getchar();
-+return 0;
-+}
 +```
 +
 +* pętla do-while:

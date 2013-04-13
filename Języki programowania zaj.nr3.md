@@ -211,3 +211,18 @@ double potegaAn(double a, int n) {
 }
 
 ```
+zajęcia n4
+#include <stdio.h>
+#include <math.h>
+int main(){
+int dane[]={-44,5,67,-2,0,33,77};
+int i;
+ int   max=6;
+    for(i=0; i<=max; i++)
+    printf("%d\n", dane[i]);
+for(i=max; i>=0; i--){
+          printf("%d\n", dane[i]);
+          }
+          getchar();
+return;
+}

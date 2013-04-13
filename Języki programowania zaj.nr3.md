@@ -34,7 +34,7 @@ Napisz funkcję warBezwzgledna zwracajaca wartość bezwzględną z liczby całk
 
 #include <stdio.h>
 
-int wartBezwzgledna(int x);
+int wartBezwzgledna(int x); 
 
 int main() {
     int x,y;

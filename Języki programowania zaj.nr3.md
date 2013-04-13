@@ -1,4 +1,6 @@
-Zajęcia nr 3
+#Zajęcia nr 3
+
+Treść zadania 1
 
 ```
 #include <stdio.h>

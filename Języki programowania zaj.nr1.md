@@ -1,5 +1,5 @@
-#JĘZYKI PROGRAMOWANIA~~~
-
+#JĘZYKI PROGRAMOWANIA
+~~~
 
 ##Pierwsze zajęcia:
 

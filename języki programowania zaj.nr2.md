@@ -1,8 +1,10 @@
 #Zajęcia nr 2
 
 
-zadanie nr1
+Zadanie nr1
 Napisz program liczący pierwiastki trójmianu kwadratowego: a*x^2+b*x+c=0"
+
+
 
 #include <stdio.h>
 #include <math.h>

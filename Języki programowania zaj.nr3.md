@@ -227,3 +227,32 @@ for(i=max; i>=0; i--){
           getchar();
 return;
 }
+```
+zad.2
+```c
+
+#include <stdio.h>
+#include <ctype.h>
+#define MAX 25
+int main(){
+    char napis[MAX];
+    int i=0,licznik=0;
+    int c;
+    puts ("podaj napis małymi literami\n");
+while((c=getchar())!=EOF)
+                         {napis[i]=toupper(c);
+                         i++;
+                         }
+                         licznik=i;
+                         for(i=0;i<=licznik;i++){
+                                                 printf("%c",napis[i]);}
+                                                 return;
+                                                 }
+
+
+
+
+
+
+
+

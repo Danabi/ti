@@ -37,7 +37,7 @@
 +###Treść zadania czwartego:
 +
 +"Napisz program podający najmniejszą i największą z podanych liczb zmiennoprzecinkowych.<br> Uwaga:, aby uzyskać nieskończoności przydatne w programie można napisać:<br> 
-+```c 
++```c  
 +double zero=0.0;
 +double max=-1/zero; /*minus nieskonczonosc*/<br> 
 +double min=1/zero; /*plus nieskonczonosc*/<br> 

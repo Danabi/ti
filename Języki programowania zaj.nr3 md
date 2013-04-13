@@ -1,3 +1,5 @@
+```c
+
 #include <stdio.h>
 #include <math.h>
 
@@ -19,8 +21,11 @@ double pole(double r) {
     p=4*M_PI*r*r;                                                          
     return p;    
 }
+```
 
 Treść zadania 2
+
+```c
 
 Napisz funkcję warBezwzgledna zwracajaca wartość bezwzględną z liczby całkowitej.
 
@@ -44,8 +49,9 @@ int wartBezwzgledna(int x) {
     x=-x;
     return x;    
 }
-
+```
 Treść zadania 3
+```c
 
 Napisz funkcję obliczającą a do potęgi n dla n należącego do N za pomocą pętli.
 
@@ -92,8 +98,10 @@ double potegaAn(double a, int n) {
 }
     return x;
 }
+```
 
-Treść zadania 4 jest zbyt skomplikowana
+Treść zadania 4 
+```c
 
 w skrócie - napisać funkcję, która liczy pierwiastek z liczby oraz porównuje go z pierwiastkiem z tej liczby z funkcji wbudowanej
 
@@ -123,8 +131,9 @@ double pierwA(double a) {
     x=(x+(a/x))/2.0;
     return x;
     }
-
-Treść zadania 5 (jest w formie algorytmu)
+```
+Treść zadania 5 
+```c
 
 Szybkie boliczanie potęgi n-tej liczby a
 
@@ -155,8 +164,10 @@ int potegaAn(int a, int n) {
 
     return p;
 }
+```
 
 Treść zadania 6
+```c
 
 Rozbuduj funkcję z poprzedniego zadania tak, aby funkcja działała także dla ujemnych potęg (n całkowite) i dla a będących typu double.
 
@@ -195,3 +206,4 @@ double potegaAn(double a, int n) {
                      else
                      return (1.0/p);
 }
+```

@@ -8,30 +8,7 @@
  #include <math.h>
 @@ -42,7 +43,9 @@ int main() {
  
- ---
- 
--Kod programu wypisujacego liczby doskonale:
-+###Treść zadania drugiego:
-+
-+"Znajdź liczby o tej własności, że suma dzielników właściwych liczby jest równa zadanej liczbie, np. 6=1+2+3.<br> Są to tak zwane liczby doskonałe."
- 
- ```c
- #include <stdio.h>
-@@ -63,8 +66,10 @@ int main() {
- }
- ```
- 
--Kod programu wypisujacego trojki pitagorejskie:
-+###Treść zadania trzeciego:
- 
-+"Wyświetl 20 różnych (tj. bez permutacji liczb) trójek pitagorejskich, tzn. takich liczb całkowitych dodatnich a, b i c, że a^2+b*2=c^2."
-+Interesuje nas pierwsze dwadzieścia trójek.
- ```c
- #include <stdio.h>
- #include <math.h>
-@@ -88,7 +93,15 @@ return 0;
- }
- ```
+ --- 
  
 -Kod programu szukajacego wartosc minimalna i maksymalna:
 +###Treść zadania czwartego:

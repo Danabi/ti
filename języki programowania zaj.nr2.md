@@ -69,7 +69,10 @@ int main() {
     return 0;
 }
 
+```
 Treść zadania trzeciego:
+
+```c
 
 "Wyświetl 20 różnych (tj. bez permutacji liczb) trójek pitagorejskich, tzn. takich liczb całkowitych dodatnich a, b i c, że a^2+b*2=c^2." Interesuje nas pierwsze dwadzieścia trójek.
 
@@ -94,7 +97,9 @@ int main () {
 return 0;
 }
 
+```
 Treść zadania czwartego:
+```c
 
 "Napisz program podający najmniejszą i największą z podanych liczb zmiennoprzecinkowych.
 Uwaga:, aby uzyskać nieskończoności przydatne w programie można napisać:
@@ -133,8 +138,10 @@ int main() {
     getchar();
     return 0;
 }
+```
 
 Treść zadania piątego:
+```c
 
 "Napisz program wypisujący słownie dzień tygodnia, jeżeli numer dnia tygodnia jest znany jako liczba (np. 3).
 Użyj instrukcji switch-case.
@@ -174,3 +181,4 @@ scanf("%d", &x);
     getchar();
     return 0;
 }
+```

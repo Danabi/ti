@@ -1,6 +1,6 @@
 #JĘZYKI PROGRAMOWANIA
 
-~~~
+
 ##Pierwsze zjęcia:
 
 ```c

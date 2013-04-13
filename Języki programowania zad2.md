@@ -12,26 +12,7 @@
  
 -Kod programu szukajacego wartosc minimalna i maksymalna:
 +###Treść zadania czwartego:
-+
-+"Napisz program podający najmniejszą i największą z podanych liczb zmiennoprzecinkowych.<br> Uwaga:, aby uzyskać nieskończoności przydatne w programie można napisać:<br> 
-+```c  
-+double zero=0.0;
-+double max=-1/zero; /*minus nieskonczonosc*/<br> 
-+double min=1/zero; /*plus nieskonczonosc*/<br> 
-+``` 
-+"
- 
- ```c
- #include <stdio.h>
-@@ -123,7 +136,9 @@ int main() {
- 
- ---
- 
--Dodano program wypisujacy dni tygodnia:
-+###Treść zadania piątego:
-+
-+"Napisz program wypisujący słownie dzień tygodnia, jeżeli numer dnia tygodnia jest znany jako liczba (np. 3).<br> Użyj instrukcji switch-case.
- 
++ 
  ```c
 int x;
 printf("Podaj dzień)";

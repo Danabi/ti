@@ -19,8 +19,8 @@ int main(){
  getchar();
  return 0;
 }   
-
-
+```
+```c
 #include <stdio.h>
 #include <math.h>
 int main(){
@@ -34,11 +34,8 @@ int main(){
  getchar();
  return 0;
 }   
-
-
-
-
-
+```
+```c
 
 
 #include <stdio.h>
@@ -57,6 +54,8 @@ int main(){
             getchar();
             return 0;
             }
+```
+```c
 
 #include <stdio.h>
 
@@ -74,7 +73,8 @@ double fahr,celsius; /* deklaracja temperatur */
             getchar();
             return 0;
             }
-
+```
+```c
 
 #include <stdio.h>
 #define LOWER 0
@@ -87,7 +87,8 @@ printf("%d3d %6.1lf\n",fahr,(5.0/9.0)*(fahr-32.0));
 getchar();
 return 0;
 }
-
+```
+```c
 
 #include <stdio.h>
 int main(){
@@ -111,6 +112,10 @@ getchar();
 getchar();
 return 0;
 }
+```
+```c
+
+
 #include <stdio.h>
 
 
@@ -135,9 +140,9 @@ getchar();
 getchar();
 return 0;
 }
+```
 
-
-
+```c
 
 #include <stdio.h>
 
@@ -158,6 +163,9 @@ putchar('\n');
 }
 getchar(); getchar();
 }
+```
+
+```c
 
 Zadanie 3
 #include <stdio.h>
@@ -175,4 +183,5 @@ int main(){
          }
          printf("Suma = %lf \t , a srednia= %lf",suma,suma/n);
          getchar();getchar();}
+```
 

@@ -69,6 +69,7 @@ Darmowy edytor którego można ściągnąć z netu: EDYTOR SUBLIME TEXT- wybrać
 i zainstalować. Jeśli mamy terminal możemy spr czy program (plik) został pobrany wpisujemy: ls cd Pobrane/ /Pobrane$ ls. 
 następnie wpisujemy hasło - jxvf i rozpakowujemy plik z edytorem.
 
+
 Obsługa: klawisz tabulacji służy do: wpisujemy początkową literę pliku wciskamy tab i nazwa sama się rowinie.
          ls - l: wyswietla bardziej szczegółowo inf. o elemantach wyświetlanych w terminalu.
          chmod755 sublime_text - zmieniamy dostępność pliku.

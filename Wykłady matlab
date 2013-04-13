@@ -38,7 +38,7 @@ roots() - obliczanie pierwiasków
 , -przecinek znak oddzielajacy w strukrze, kilka operacji w jednej linijce:
 
 x=2,y=3 x = 2 y = 3
-; - srednik umieszczany na koncu lini wstrzymuje wydruk
+; - srednik umieszczany na koncu lini wstrzymuje wydruk 
 
 : -dwukropek separator w poleceniu tworzenia wektora
 

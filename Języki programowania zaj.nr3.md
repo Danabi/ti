@@ -211,6 +211,7 @@ double potegaAn(double a, int n) {
 }
 
 ```
+```c
 zajęcia n4
 #include <stdio.h>
 #include <math.h>

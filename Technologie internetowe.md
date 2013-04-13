@@ -77,8 +77,11 @@ Obsługa: klawisz tabulacji służy do: wpisujemy początkową literę pliku wci
 Przdatne informacje z wykładópw W. Bzyl: tao.inf.ug.edu.pl
 
 Domeny: az.pl
+```
 
 #Zajęcia nr 3 13.04.2013
+
+```
 Aby dokonać poprawek wyszukujemy ISUSEC, kopiujemy adres danej osoby, wpisujemy komentarz.  
 
 

@@ -1,3 +1,5 @@
+Zajęcia nr 3
+
 ```
 #include <stdio.h>
 #include <math.h>

@@ -1,4 +1,4 @@
-@@ -1,5 +1,6 @@
+```
 -Kod programu liczacego miejsca zerowe trojmianu kwadratowego:
 +###Treść zadania pierwszego:
  

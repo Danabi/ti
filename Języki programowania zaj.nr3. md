@@ -206,4 +206,5 @@ double potegaAn(double a, int n) {
                      else
                      return (1.0/p);
 }
+
 ```

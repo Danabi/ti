@@ -78,7 +78,7 @@ Treść zadania drugiego:
 +}
 ```
  
- ###Treść zadania trzeciego:
+Treść zadania trzeciego:
  "Wczytaj n liczb i wyświetl ich sume i średnią arytmetyczną."
 ```c
 
@@ -260,8 +260,8 @@ Treść zadania dziewiątego:
 
 ```
 +* Program - wersja ulepszona:
-+
-+```c
+
+```c
 +#include <stdio.h> 
 +int main() 
 +{ 
@@ -283,4 +283,4 @@ Treść zadania dziewiątego:
 +getchar();
 +return 0;
 +}
-+```
+```

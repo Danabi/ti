@@ -30,7 +30,7 @@ Treść zadania 2
 
 ```c
 
-Napisz funkcję warBezwzgledna zwracajaca wartość bezwzględną z liczby całkowitej.
+Napisz funkcje zwracajaca wartość bezwzględną z liczby całkowitej.
 
 #include <stdio.h>
 

@@ -22,7 +22,7 @@ int main() {
 double pole(double r) {
     double p;
     p=4*M_PI*r*r;                                                          
-    return p;    
+    return 0;    
 }
 ```
 
@@ -228,7 +228,7 @@ for(i=max; i>=0; i--){
 return;
 }
 ```
-zad.2
+Zad.2
 ```c
 
 #include <stdio.h>

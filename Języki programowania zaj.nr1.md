@@ -182,6 +182,7 @@ int main(){
          suma+=liczba;
          }
          printf("Suma = %lf \t , a srednia= %lf",suma,suma/n);
-         getchar();getchar();}
-```
+         getchar();
+         getchar();}
+``` 
 
